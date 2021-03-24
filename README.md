@@ -9,7 +9,8 @@
 * 42 SEOUL은 이노베이션 아카데미 재단의 첫번째 교육 프로그램으로, 혁신적인 소프트웨어 인재 양성을 목적으로 합니다.
 * 42 SEOUL은 창의성(Creativity), 비판적 사고(Critical Thinking), 도전정신(Challenge), 융합(Convergence), 공감과 협업(Collaboration)의 5C 역량을 가진 인재 양성을 목표로 합니다. 모든 사람은 자신만의 특별한 영역에 창의성을 가지고 있기 때문에, 다른 4개의 역량을 키워 이미 가지고 있던 창의성으로 세상을 바꿀 수 있는 혁신적 인재를 양성하고자 합니다.
 * 42 SEOUL가 추구하는 소프트웨어 교육은 교수없이 교육생들이 서로에게 배우는 혁신적인 교육방법 및 철학을 기반으로 하는 교육을 계획하고 있습니다.
-* 이노베이션 아카데미와 42 SEOUL은 서울 강남구 개포동의 개포디지털혁신파크에 42 SEOUL의 두번째 학습 공간인 2nd Planet은 서울 서초구 서초동 대륭서초타워에 위치하고 있습니다.
+* 이노베이션 아카데미와 42 SEOUL은 서울 강남구 개포동의 개포디지털혁신파크에, 42 SEOUL의 두번째 학습 공간인 2nd Planet은 서울 서초구 서초동 대륭서초타워에 위치하고 있습니다.
+* 42 SEOUL에서 벌어지는 많은 일들의 단면, 그리고 유용한 학습 자료는 [42Place 블로그](https://42place.innovationacademy.kr/), [이노베이션 아카데미 유튜브 채널](https://www.youtube.com/channel/UC5pBkQjap4TW-LJryKZQegQ), 그리고 [이노베이션 아카데미 Github](https://github.com/innovationacademy-kr/) 등 에서 찾아보실 수 있습니다.
 
 ## 선발 자격, 모집 규모와 절차
 
